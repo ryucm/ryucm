@@ -1,4 +1,5 @@
 ### Hi there 👋
+I will be Data Engineer
 
-Data Engineer
-Data Analyst
+## Contact
+dbse7en@naver.com
