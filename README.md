@@ -1,5 +1,5 @@
 <div align="center">
-  ### Hi! 👋 I'm ChangMin Ryu
+  <h1> Hi! 👋 I'm ChangMin Ryu
 </div>
 ---
 🎓 Education
