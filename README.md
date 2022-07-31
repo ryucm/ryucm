@@ -1,4 +1,6 @@
-### Hi! 👋 I'm ChangMin Ryu
+<div align="center">
+  ### Hi! 👋 I'm ChangMin Ryu
+</div>
 ---
 🎓 Education
 - Hallym University, Business and Raw `2013.03~2020.02`
