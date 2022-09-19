@@ -6,7 +6,7 @@
 - Hallym University, Business and Raw `2013.03~2020.02`
 
 💼 Work
-- Tridge Data Acquisition `2022.05~2022.08`
+- Tridge Data Engineer `2022.05~2022.08`
 - EMTomega Purchase team `2019.12~2021.08`
 
 
