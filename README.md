@@ -6,8 +6,6 @@
 dbse7en@naver.com
 010 - 2552 - 4364
 
-🎓 Education
-
 💼 Work
 - Tridge Intern Data Engineer `2022.05~2022.08`
 - EMTomega Purchase team `2019.12~2021.08`
